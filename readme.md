@@ -23,6 +23,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Front-end
 - Responsividade.
 - Variáveis CSS.
-- Animações
+- Animações.
 
 ---
