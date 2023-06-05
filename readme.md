@@ -7,7 +7,7 @@ Uma Academia. <br/>
 <br>
 
 <p align="center">
-  <img src="https://github.com/FelipeMelogomes/Fmburger/blob/main/preview.png" width="100%">
+  <img src="https://github.com/FelipeMelogomes/Academia-website/blob/main/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
