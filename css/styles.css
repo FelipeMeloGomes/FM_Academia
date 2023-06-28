@@ -99,7 +99,7 @@ img {
   height: auto;
 }
 
-/*=============== REUSABLE CSS CLASSES ===============*/
+/*REUSABLE CSS CLASSES*/
 .container {
   max-width: 1124px;
   margin-right: 1.5rem;
@@ -162,7 +162,7 @@ img {
   color: var(--first-color);
 }
 
-/*=============== HEADER & NAV ===============*/
+/*HEADER & NAV*/
 .header {
   width: 100%;
   background-color: transparent;
@@ -269,7 +269,7 @@ img {
   color: var(--first-color);
 }
 
-/*=============== HOME ===============*/
+/*HOME*/
 .home {
   position: relative;
   padding-bottom: 0;
@@ -342,7 +342,7 @@ img {
   margin: 0 auto;
 }
 
-/*=============== BUTTON ===============*/
+/*BUTTON*/
 .button {
   display: inline-block;
   background-color: var(--first-color);
@@ -374,7 +374,7 @@ img {
   transform: translateX(.25rem);
 }
 
-/*=============== LOGOS ===============*/
+/*LOGOS=*/
 .logos__container {
   grid-template-columns: repeat(2, 1fr);
   gap: 2rem;
@@ -385,7 +385,7 @@ img {
   width: 120px;
 }
 
-/*=============== PROGRAM ===============*/
+/*PROGRAM*/
 .program__container {
   grid-template-columns: 225px;
   justify-content: center;
@@ -472,7 +472,7 @@ img {
   opacity: 1;
 }
 
-/*=============== CHOOSE ===============*/
+/*CHOOSE*/
 .choose {
   padding-bottom: 0;
 }
@@ -1195,7 +1195,6 @@ img {
   .calculate__img {
     width: 300px;
   }
-
 
   .scrollup {
     right: 3rem;
